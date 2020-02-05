@@ -1,0 +1,22 @@
+{
+  "name": "export-ipld-graph",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "datastore-car": "^1.1.1",
+    "ipfs": "^0.40.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "hundreds": "0.0.2",
+    "mocha": "^7.0.1",
+    "standard": "^14.3.1"
+  }
+}
